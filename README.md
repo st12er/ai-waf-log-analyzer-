@@ -58,13 +58,13 @@ This project:
 4. **Screenshots**
 
 🔹 App Dashboard
-![Dashboard](App.png)
+![Dashboard](app.png)
 
 🔹 Detection Results
-![Detection](app2.png)
+![Detection](app1.png)
 
 🔹 AI Analysis
-![AI Analysis](app3.png)
+![AI Analysis](app2.png)
 
 🔹 Command Line Run
 ![Command](cmd.png)
