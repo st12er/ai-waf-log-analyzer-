@@ -1,0 +1,8 @@
+ip,requests,path,user_agent,country,status
+192.168.1.10,1200,/login,python-requests,US,403
+192.168.1.11,50,/home,chrome,IN,200
+192.168.1.12,800,/api/data,headless,DE,429
+192.168.1.13,1500,/login,bot,US,403
+192.168.1.14,30,/product,safari,UK,200
+,,,,,
+,,,,,
